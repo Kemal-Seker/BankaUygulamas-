@@ -1,0 +1,21 @@
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.exe.config
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.exe
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.pdb
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.csprojAssemblyReference.cache
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.csproj.CoreCompileInputs.cache
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.exe
+F:\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.pdb
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.exe.config
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.exe
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.pdb
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.csprojAssemblyReference.cache
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.csproj.CoreCompileInputs.cache
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.exe
+D:\Yazılım\usb bellek\07.02.2019\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.pdb
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.exe.config
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.exe
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\bin\Debug\BankaHocaTekrar.pdb
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.csprojAssemblyReference.cache
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.exe
+C:\Users\Kemal\Desktop\PROJELER\BankaHocaTekrar\BankaHocaTekrar\obj\Debug\BankaHocaTekrar.pdb

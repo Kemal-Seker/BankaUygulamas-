@@ -1,0 +1,7 @@
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\bin\Debug\BankaHocaTekrar.exe.config
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\bin\Debug\BankaHocaTekrar.exe
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\bin\Debug\BankaHocaTekrar.pdb
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\obj\Debug\Banka.csprojAssemblyReference.cache
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\obj\Debug\BankaHocaTekrar.exe
+C:\Users\Kemal\Desktop\PROJELER\Banka\Banka\obj\Debug\BankaHocaTekrar.pdb
